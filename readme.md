@@ -11,7 +11,7 @@ Esta é uma solução para a Quest de JS Intermediário.
 
 ### Screenshot
 
-<img src="./src/imagens/formulario-pronto.jpeg>
+[<img src="./src/imagens/formulario-pronto.jpeg" alt="imagem do projeto">](https://camillevale.github.io/Valida-oFormulario/)
 
 
 
